@@ -1,11 +1,22 @@
 ## Hello, my name is Anderson!!
 ### Welcome to my GitHub profile 👋
+
+## 🔧 Technical Skills:
+
+- Kotlin
+- Android SDK
+- Retrofit
+- Firebase
+- MVVM
+- Clean Architecture
+
 ## Open to collaboration and new challenges! 🚀
 <div>
 <a href="https://github.com/AndersonPS94">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonPS94&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonPS94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 
 ### Contatos:
