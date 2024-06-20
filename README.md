@@ -4,11 +4,26 @@
 ## 🔧 Technical Skills:
 
 - Kotlin
+- Java
+- Android Studio
 - Android SDK
+- Jetpack (Navigation, LiveData, ViewModel, Room, WorkManager)
+- Kotlin Coroutines
 - Retrofit
 - Firebase
 - MVVM
+- MVC
+- MVP
 - Clean Architecture
+- JUnit
+- Mockito
+- Gradle
+
+
+
+
+
+
 
 ## Open to collaboration and new challenges! 🚀
 <div>
