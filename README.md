@@ -1,25 +1,33 @@
 ## Hello, my name is Anderson!!
 ### Welcome to my GitHub profile 👋
 
-## 🔧 Technical Skills:
+🚀 Tecnologias e Ferramentas
 
-- Kotlin
-- Java
-- Android Studio
-- Android SDK
-- Jetpack (Navigation, LiveData, ViewModel, Room, WorkManager)
-- Kotlin Coroutines
-- Retrofit
-- Firebase
-- MVVM
-- MVC
-- MVP
-- Clean Architecture
-- JUnit
-- Mockito
-- Gradle
+🛠 Desenvolvimento Android
+Linguagem: Kotlin
+Arquitetura: MVVM
+UI Frameworks: Jetpack Compose, XML
+Gerenciamento de Dados: Room, SharedPreferences
+Comunicação com APIs: Retrofit, Gson
+Gerenciamento de Dependências: Gradle
 
+☁ Backend e Banco de Dados
+Firebase: Firestore, Realtime Database, Authentication, Cloud Messaging
+APIs REST
 
+⚙ Ferramentas e Outras Tecnologias
+Controle de Versão: Git, GitHub
+Gerenciamento de Estado: LiveData, ViewModel
+Navegação: Navigation Component
+Processamento em Segundo Plano: WorkManager, Coroutines
+Testes: JUnit, Espresso
+
+📈 O que estou estudando no momento?
+Atualmente, estou aprimorando meus conhecimentos em arquitetura de software, boas práticas de código e testes automatizados para garantir a melhor experiência e performance nos aplicativos que desenvolvo.
+
+📫 Contato
+📧 E-mail: [andersonpsdev@gmail.com]
+🌎 LinkedIn: [linkedin.com/in/andersonps94]
 
 
 
