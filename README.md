@@ -1,34 +1,41 @@
+# 👋 Olá, sou [Seu Nome]
 
-##Olá, sou Anderson👋
-###Desenvolvedor Android | Kotlin | Mobile💻 
+💻 **Desenvolvedor Android | Kotlin | Mobile**  
 
-Sou um desenvolvedor Android apaixonado por criar aplicativos nativos intuitivos e performáticos. Sempre busco aprimorar minhas habilidades, explorando boas práticas, arquitetura moderna e as últimas tendências do ecossistema Android.
+Sou um desenvolvedor Android apaixonado por criar aplicativos nativos intuitivos e performáticos. Sempre busco aprimorar minhas habilidades, explorando boas práticas, arquitetura moderna e as últimas tendências do ecossistema Android.  
 
-🚀 Tecnologias e Ferramentas
+---
 
-🛠 Desenvolvimento Android
-Linguagem: Kotlin
-Arquitetura: MVVM
-UI Frameworks: Jetpack Compose, XML
-Gerenciamento de Dados: Room, SharedPreferences
-Comunicação com APIs: Retrofit, Gson
-Gerenciamento de Dependências: Gradle
+## 🚀 Tecnologias e Ferramentas  
 
-☁ Backend e Banco de Dados
-Firebase: Firestore, Realtime Database, Authentication, Cloud Messaging
-APIs REST
+### 🛠 Desenvolvimento Android  
+- **Linguagem:** Kotlin  
+- **Arquitetura:** MVVM  
+- **UI Frameworks:** Jetpack Compose, XML  
+- **Gerenciamento de Dados:** Room, SharedPreferences  
+- **Comunicação com APIs:** Retrofit, Gson  
+- **Gerenciamento de Dependências:** Gradle  
 
-⚙ Ferramentas e Outras Tecnologias
-Controle de Versão: Git, GitHub
-Gerenciamento de Estado: LiveData, ViewModel
-Navegação: Navigation Component
-Processamento em Segundo Plano: WorkManager, Coroutines
-Testes: JUnit, Espresso
+### ☁ Backend e Banco de Dados  
+- **Firebase:** Firestore, Realtime Database, Authentication, Cloud Messaging  
+- **APIs REST**  
 
-📈 O que estou estudando no momento?
-Atualmente, estou aprimorando meus conhecimentos em arquitetura de software, boas práticas de código e testes automatizados para garantir a melhor experiência e performance nos aplicativos que desenvolvo.
+### ⚙ Ferramentas e Outras Tecnologias  
+- **Controle de Versão:** Git, GitHub  
+- **Gerenciamento de Estado:** LiveData, ViewModel  
+- **Navegação:** Navigation Component  
+- **Processamento em Segundo Plano:** WorkManager, Coroutines  
+- **Testes:** JUnit, Espresso  
 
-📫 Contato
+
+---
+
+## 📈 O que estou estudando no momento?  
+Atualmente, estou aprimorando meus conhecimentos em **arquitetura de software, boas práticas de código e testes automatizados** para garantir a melhor experiência e performance nos aplicativos que desenvolvo.  
+
+---
+
+## 📫 Contato  
 📧 E-mail: [andersonpsdev@gmail.com]
 🌎 LinkedIn: [linkedin.com/in/andersonps94]
 
