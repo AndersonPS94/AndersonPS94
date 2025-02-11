@@ -17,7 +17,7 @@ Sou um desenvolvedor Android apaixonado por criar aplicativos nativos intuitivos
 - **Gerenciamento de Dependências:** Gradle  
 
 ### ☁ Backend e Banco de Dados  
-- **Firebase:** Firestore, Realtime Database, Authentication, Firestore Database
+- **Firebase:** Storage, Realtime Database, Authentication, Firestore Database
 - **APIs REST**  
 
 ### ⚙ Ferramentas e Outras Tecnologias  
