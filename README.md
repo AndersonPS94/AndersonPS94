@@ -2,7 +2,7 @@
 
 ## 🚀 Foco em Mobile Moderno e Arquitetura de Software
 
-Sou um **Desenvolvedor Android Nativo** com **3 ano de experiência** focado em construir aplicativos **performáticos, escaláveis e com design moderno**.
+Sou um **Desenvolvedor Android Nativo** com **3 anos de experiência** focado em construir aplicativos **performáticos, escaláveis e com design moderno**.
 
 Minha missão é evoluir sempre, dominando as tecnologias que definem o futuro do desenvolvimento Android.
 
